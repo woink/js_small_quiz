@@ -74,5 +74,9 @@ fetch("notarealwebsite.com/dogs/25", {
 
 ```
 
-### 4. In JavaScript, how would you access the "jaws" dataset property? How would you change its value to "overrate maybe"?
+### 4. In JavaScript, how would you access the "jaws" dataset property? How would you change its value to "overrated maybe"?
+
+```javascript
+
+```
 
