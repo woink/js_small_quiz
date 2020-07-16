@@ -46,7 +46,7 @@ buttons.addEventListener("click", function(e){
 
 ### 2. Following RESTful conventions (see [restular.com](http://www.restular.com) if you need a bit of help with that), write the fetch request to update the `user` record with an id of 1 at the URL "notarealwebsite.com".
 
-### 3. What does the effect does the following fetch request have in the database? What does the following fetch request *return*? 
+### 3. What effect does the following fetch request have in the database? What does the following fetch request *return*? 
 
 ```javascript
 fetch("notarealwebsite.com/dogs/25", {
