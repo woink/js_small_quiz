@@ -50,25 +50,25 @@ buttons.addEventListener("click", function(e){
 
 ## Events
 
-### 1. Why do we use a `DOMContentLoaded` listener?
+### 5. Why do we use a `DOMContentLoaded` listener?
 
 ```
 
 ```
 
-### 2. What type of element does a `submit` event happen to?
+### 6. What type of element does a `submit` event happen to?
 
 ```
 
 ```
 
-### 3. What attribute of an `input` element can we use to easily retrieve data from form inputs?
+### 7. What attribute of an `input` element can we use to easily retrieve data from form inputs?
 
 ```
 
 ```
 
-### 4. What are the 2 required parameters we have to pass into a call to `addEventListener`?
+### 8. What are the 2 required parameters we have to pass into a call to `addEventListener`?
 
 ```
 
@@ -76,19 +76,19 @@ buttons.addEventListener("click", function(e){
 
 ## Fetch
 
-### 1. Write the code to do a GET `fetch` request to "notarealwebsite.com" and log the response from the server to the console.
+### 9. Write the code to do a GET `fetch` request to "notarealwebsite.com" and log the response from the server to the console.
 
 ```javascript
 
 ```
 
-### 2. Following RESTful conventions (see [restular.com](http://www.restular.com) if you need a bit of help with that), write the `fetch` request to update the `user` record with an id of 1 at the URL "notarealwebsite.com".
+### 10. Following RESTful conventions (see [restular.com](http://www.restular.com) if you need a bit of help with that), write the `fetch` request to update the `user` record with an id of 1 at the URL "notarealwebsite.com".
 
 ```javascript
 
 ```
 
-### 3. What effect does the following fetch request have in the database? What does the following fetch request *return*? 
+### 11. What effect does the following fetch request have in the database? What does the following fetch request *return*? 
 
 ```javascript
 fetch("notarealwebsite.com/dogs/25", {
@@ -102,25 +102,25 @@ fetch("notarealwebsite.com/dogs/25", {
 
 ## Datasets
 
-### 1. Write the HTML to create a `div` element with a dataset property of "awesome" set to a value of "Steven is".
+### 12. Write the HTML to create a `div` element with a dataset property of "awesome" set to a value of "Steven is".
 
 ```HTML
 
 ```
 
-### 2. In JavaScript, how would you get the `div` element from the question above from the DOM using `document.querySelector` and the dataset?
+### 13. In JavaScript, how would you get the `div` element from the question above from the DOM using `document.querySelector` and the dataset?
 
 ```javascript
 
 ```
 
-### 3. Write the JavaScript to create a `marquee` element with a dataset property of "jaws" set to a value of "great movie".
+### 14. Write the JavaScript to create a `marquee` element with a dataset property of "jaws" set to a value of "great movie".
 
 ```javascript
 
 ```
 
-### 4. In JavaScript, how would you access the "jaws" dataset property? How would you change its value to "overrated maybe"?
+### 15. In JavaScript, how would you access the "jaws" dataset property? How would you change its value to "overrated maybe"?
 
 ```javascript
 
